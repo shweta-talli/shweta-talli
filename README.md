@@ -1,17 +1,17 @@
 ***ELECTRONICS AND COMMUNICATION ENGINEERING STUDENT***
 ⚡ passionate about **EMBEDDED SYSTEM**, **VLSI DESIGN**, **SEMICONDUCTORS**.
-
+---
 ### CORE INTERESTS
-   _ **semiconductors and core ECE:** VLSI Design, Digital Electronics, Semiconductor Devices, Microcontrollers
-   _ **Embedded and Hardware:** STM32, PCB Design, Circuit Analysis and Design
-   _**Programming Languages:** C, Python
-
+   - **semiconductors and core ECE:** VLSI Design, Digital Electronics, Semiconductor Devices, Microcontrollers
+   - **Embedded and Hardware:** STM32, PCB Design, Circuit Analysis and Design
+   - **Programming Languages:** C, Python
+---
   ### PROJECTS AND PRACTICE
-   _ **Embedded System:** STM32 hardware projects and PCB layouts.
+   - **Embedded System:** STM32 hardware projects and PCB layouts.
 
    ### Connect with me 📫
-   _ ***LinkedIn:***   https://www.linkedin.com/in/shweta-talli-511178426?utm_source=share_via&utm_content=profile&utm_medium=member_android.
-   _***Email:***  shwetatalli7@gmail.com
+   - ***LinkedIn:***   https://www.linkedin.com/in/shweta-talli-511178426?utm_source=share_via&utm_content=profile&utm_medium=member_android.
+   -***Email:***  shwetatalli7@gmail.com
    
    
 <!--
